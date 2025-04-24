@@ -371,7 +371,7 @@ Jewellery</p>
   </a>
   <div class="desc">Bracelet Diamond</div>
    </div>
-</div>
+</div><br>
 
 
 <div class="container">
