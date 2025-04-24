@@ -367,7 +367,7 @@ Jewellery</p>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="bracelet4.jpg">
-    <img src="bracelet4.jpg" alt="Mountains" width="600" height="400">
+    <img src="bracelet5.jpg" alt="Mountains" width="600" height="400">
   </a>
   <div class="desc">Bracelet Diamond</div>
    </div>
